@@ -56,3 +56,4 @@ virtualenv==20.30.0
 virtualenv-clone==0.5.7
 virtualenvwrapper==6.1.1
 wcwidth==0.2.13
+gunicorn==19.7.1
